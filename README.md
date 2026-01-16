@@ -1,12 +1,17 @@
 <div align="center">
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1600&center=true&vCenter=true&width=720&lines=Sahil+Yadav;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=2600&pause=600&color=38BDF8&center=true&vCenter=true&width=720&lines=Sahil+Yadav;Full+Stack+Developer" />
 
 <p align="center">
   <sub>I build the parts users see — and the parts they don’t.</sub>
 </p>
 
 </div>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="420" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient" />
@@ -29,7 +34,7 @@ Most of my time goes into turning ideas into things people can actually use.
 ## 🧰 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,php,kotlin,flutter,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,php,mysql,kotlin,flutter,git,github&theme=dark" />
 </p>
 
 <p align="center">
