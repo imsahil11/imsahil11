@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=4200&pause=1600&center=true&vCenter=true&width=760&lines=Sahil+Yadav;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1400&center=true&vCenter=true&width=760&lines=Sahil+Yadav;Full+Stack+Developer" />
 
 <br/>
 
@@ -32,9 +32,17 @@ Most of my time goes into turning ideas into things people can actually use.
 
 ## Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,php,mongodb,mysql,git&perline=7" />
-</p>
+<div align="center">
+
+<!-- primary stack -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,php&theme=dark" />
+
+<br/><br/>
+
+<!-- data + tooling -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git&theme=dark" />
+
+</div>
 
 ---
 
@@ -42,9 +50,11 @@ Most of my time goes into turning ideas into things people can actually use.
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=imsahil11&show_icons=true&hide_border=true&theme=transparent" />
+<img height="155"
+     src="https://github-readme-stats.vercel.app/api?username=imsahil11&show_icons=true&hide_border=true&theme=transparent" />
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsahil11&layout=compact&hide_border=true&theme=transparent" />
+<img height="155"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsahil11&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
