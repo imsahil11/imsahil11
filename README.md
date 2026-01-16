@@ -12,7 +12,8 @@ I build the parts users see — and the parts they don’t.
 
 ---
 
-## About
+### 👋 About
+---
 
 I'm **Sahil Yadav**, a Computer Science undergraduate who builds **full-stack applications and websites**.
 
@@ -21,7 +22,8 @@ Most of my time goes into turning ideas into things people can actually use.
 
 ---
 
-## What I Do
+### ⚡ What I Do
+---
 
 - Build end-to-end web applications  
 - Develop modern, high-performance websites  
@@ -30,7 +32,8 @@ Most of my time goes into turning ideas into things people can actually use.
 
 ---
 
-## Tools
+### 🧰 Tools
+---
 
 <div align="center">
 
@@ -46,15 +49,16 @@ Most of my time goes into turning ideas into things people can actually use.
 
 ---
 
-## GitHub
+### 📊 GitHub
+---
 
 <div align="center">
 
-<img height="155"
-     src="https://github-readme-stats.vercel.app/api?username=imsahil11&show_icons=true&hide_border=true&theme=transparent" />
+<img height="150"
+     src="https://github-readme-stats.vercel.app/api?username=imsahil11&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=1800" />
 
-<img height="155"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsahil11&layout=compact&hide_border=true&theme=transparent" />
+<img height="150"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsahil11&layout=compact&hide_border=true&theme=github_dark&cache_seconds=1800" />
 
 </div>
 
