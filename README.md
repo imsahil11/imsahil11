@@ -37,28 +37,26 @@ Most of my time goes into turning ideas into things people can actually use.
 
 <div align="center">
 
-<!-- primary stack -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,php&theme=dark" />
+<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 <br/><br/>
 
-<!-- data + tooling -->
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git&theme=dark" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub Stats
 ---
 
 <div align="center">
 
-<img height="150"
-     src="https://github-readme-stats.vercel.app/api?username=imsahil11&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=1800" />
-
-<img height="150"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsahil11&layout=compact&hide_border=true&theme=github_dark&cache_seconds=1800" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=imsahil11&theme=dark&hide_border=true)  
 
 </div>
 
