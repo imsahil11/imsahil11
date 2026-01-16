@@ -29,7 +29,7 @@ Most of my time goes into turning ideas into things people can actually use.
 ## 🧰 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,php,mongodb,mysql,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,php,kotlin,flutter,git,github&theme=dark" />
 </p>
 
 <p align="center">
